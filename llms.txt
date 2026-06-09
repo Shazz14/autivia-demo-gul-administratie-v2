@@ -1,0 +1,32 @@
+# Gul Administratie & Consultancy
+
+> Onofficieel websiteconcept gemaakt door Autivia voor een administratiekantoor in Den Haag.
+
+## Pagina's
+- [Home](./)
+- [Diensten](./#diensten)
+- [Over ons](./#over-ons)
+- [Overstappen](./#overstappen)
+- [Contact](./#contact)
+
+## Geverifieerde informatie
+- Bedrijfsnaam: Gul Administratie & Consultancy
+- Adres: Steenwijklaan 155, 2541RK Den Haag
+- Telefoon: 070 737 0666
+- E-mail: info@guladministratie.nl
+- KVK: 57353735
+- Openingstijden: Ma-Vr 08:00-17:30
+
+## Diensten
+- Financiële administratie
+- Jaarrekening
+- Belastingaangifte
+- Salarisadministratie
+- Ondernemingsplan
+- Fiscaal advies
+
+## Contact
+Bel 070 737 0666 of mail info@guladministratie.nl
+
+## Belangrijk
+Dit is een onofficieel demonstratieconcept. Niet de officiële website.
